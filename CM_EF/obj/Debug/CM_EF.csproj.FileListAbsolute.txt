@@ -1,0 +1,10 @@
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\CM_EF.exe.config
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\CM_EF.exe
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\CM_EF.pdb
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\EntityFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\EntityFramework.SqlServer.dll
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\EntityFramework.xml
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\bin\Debug\EntityFramework.SqlServer.xml
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\obj\Debug\CM_EF.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\obj\Debug\CM_EF.exe
+\\mac\home\documents\visual studio 2015\Projects\CourseManagementEF\CM_EF\obj\Debug\CM_EF.pdb
